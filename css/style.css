@@ -54,7 +54,8 @@ body {
 .link-navi:hover,
 .link-navi:focus,
 .contacts-link:hover,
-.contacts-link:focus {
+.contacts-link:focus,
+.link-navi.current {
   color: #2196f3;
 }
 
